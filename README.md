@@ -2,6 +2,8 @@ This project was bootstrapped with [Create New App](https://docs.expo.io/version
 
 ## Get Started
 
+<img src="assets/image_task.jpeg" width="300" />  <img src="assets/image_alarm.jpeg" width="300" />
+
 ### Run app
 #### To run the app locally:
 
